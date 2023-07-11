@@ -1,0 +1,30 @@
+.jordan4 {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+  }
+  
+.jordan4 img{
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+.jordan4 .name{
+    font-weight: bold;
+    margin-top: 5px;
+  }
+  
+.jordan4 .price {
+    color: #e21e1e;
+    margin-top: 3px;
+  }
+
+.purchasebtn{
+    color: white;
+    background-color: black;
+}
+
+.purchasebtn:hover{
+    background-color: blueviolet;
+}
